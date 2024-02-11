@@ -1,4 +1,4 @@
-# Learn Responsive Web Design by a Piano
+# Learn Responsive Web Design by building a Piano 
 
 This Repository contains a Piano Project which is made with HTML5 and CSS. This Project is helpfull in learning how to build Responsive sites for different screen sizes.
 
